@@ -88,6 +88,5 @@ Contributions are welcome! Please open an issue or submit a pull request with su
 For questions or feedback, please contact:
 
 - Name: Mosopefoluwa Eniserije
-- Email: eeniserijemosope@gmail.com
+- Email: eniserijemosope@gmail.com
 
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/59854893/d67265e7-f392-4f44-9820-dcc2982b9e1c/01-911-1.IPY
