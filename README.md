@@ -83,17 +83,11 @@ pip install pandas numpy matplotlib seaborn
 
 Contributions are welcome! Please open an issue or submit a pull request with suggestions or improvements.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 For questions or feedback, please contact:
 
-- Name: [Your Name]
-- Email: [your.email@example.com]
-
-*Replace placeholders with your actual information as needed.*
+- Name: Mosopefoluwa Eniserije
+- Email: eeniserijemosope@gmail.com
 
 [1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/59854893/d67265e7-f392-4f44-9820-dcc2982b9e1c/01-911-1.IPY
